@@ -1,0 +1,13 @@
+{
+  "name": "creampie",
+  "version": "1.0.0",
+  "description": "Project deployed on Vercel",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "echo 'Server started'"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
+
